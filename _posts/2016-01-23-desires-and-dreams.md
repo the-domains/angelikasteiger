@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-23T17:09:23.781Z'
-dateModified: '2016-01-23T17:09:18.822Z'
+description: Exhibition at Menier Gallery - London
+datePublished: '2016-01-23T17:13:07.220Z'
+dateModified: '2016-01-23T17:12:58.920Z'
 title: Desires and Dreams
 author: []
 sourcePath: _posts/2016-01-23-desires-and-dreams.md
