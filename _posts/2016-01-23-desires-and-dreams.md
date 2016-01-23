@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T16:58:31.095Z'
-dateModified: '2016-01-23T16:58:26.087Z'
+datePublished: '2016-01-23T17:00:31.336Z'
+dateModified: '2016-01-23T17:00:29.073Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-23-desires-and-dreams.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: desires-and-dreams/index.html
 _type: Blurb
 
 ---
