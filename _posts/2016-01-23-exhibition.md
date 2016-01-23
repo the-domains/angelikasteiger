@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-23T17:22:16.825Z'
-dateModified: '2016-01-23T17:21:59.088Z'
+datePublished: '2016-01-23T17:24:15.771Z'
+dateModified: '2016-01-23T17:24:09.662Z'
 title: Exhibition
 author: []
+sourcePath: _posts/2016-01-23-exhibition.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-exhibition.md
-published: true
 url: exhibition/index.html
 _type: Article
 
