@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-23T17:24:15.901Z'
-dateModified: '2016-01-23T17:24:09.662Z'
-title: Exhibition
+datePublished: '2016-01-23T17:28:03.835Z'
+dateModified: '2016-01-23T17:27:53.037Z'
+title: Desires and Dreams
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ****
 
-**Desires and Dreams **
+# Desires and Dreams****
 
 Manifestations of our desires are often the
 subject matter for many of our dreams. A cherished aspiration, ambition, or
