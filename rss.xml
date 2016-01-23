@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[angelikasteiger]]></title>
         <description><![CDATA[angelikasteiger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/angelikasteiger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 16:39:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 16:51:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angelikasteiger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jetzt - now]]></title>
+            <description><![CDATA[<article><h1>Jetzt - now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40b431aae0cc17acf0eb251754f07eaa9d06b687.jpg"></article>]]></description>
+            <link>https://thegrid.ai/angelikasteiger/jetzt-now/index.html</link>
+            <guid isPermaLink="false">f50193c4-08f5-4a27-8e6f-025e6689b79d</guid>
+            <pubDate>Sat, 23 Jan 2016 16:51:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Desires and Dreams]]></title>
             <description><![CDATA[<article><h1>Desires and Dreams</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/246a6ce67cc5715faa719f48ab84dc9d6671e744.jpg"></article>]]></description>
-            <link>undefineddesires-and-dreams/index.html</link>
+            <link>https://thegrid.ai/angelikasteiger/desires-and-dreams/index.html</link>
             <guid isPermaLink="false">92b6872b-58fc-47e3-a9bd-dbc1cb91af86</guid>
             <pubDate>Sat, 23 Jan 2016 16:38:56 GMT</pubDate>
         </item>
