@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:00:31.336Z'
-dateModified: '2016-01-23T17:00:29.073Z'
+datePublished: '2016-01-23T17:07:18.435Z'
+dateModified: '2016-01-23T17:07:11.031Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-23-desires-and-dreams.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: desires-and-dreams/index.html
-_type: Blurb
+_type: Article
 
 ---
 ****
@@ -42,4 +42,4 @@ artists are
 ___Maureen Banfield Hamlin, Elaine Coles, Janet Curley Cannon, Gill
 Hawkins, Jillian McLaren, Rosemary Miller, Forbes Moores, Patricia Sharman,
 Angelika Steiger __and Markus Wanger_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7f924aa1ce9ba29f1135295bf6a633424e3310d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/246a6ce67cc5715faa719f48ab84dc9d6671e744.jpg)
