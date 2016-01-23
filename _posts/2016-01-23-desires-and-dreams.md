@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Exhibition at Menier Gallery - London
-datePublished: '2016-01-23T17:13:07.220Z'
+datePublished: '2016-01-23T17:13:07.261Z'
 dateModified: '2016-01-23T17:12:58.920Z'
 title: Desires and Dreams
 author: []
