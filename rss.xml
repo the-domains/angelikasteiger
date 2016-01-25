@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[angelikasteiger]]></title>
-        <description><![CDATA[angelikasteiger]]></description>
-        <link>https://thegrid.ai/angelikasteiger/</link>
+        <title><![CDATA[Angelika Steiger]]></title>
+        <description><![CDATA[Angelika Steiger]]></description>
+        <link>http://angelikasteiger.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:30:11 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/angelikasteiger/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 10:44:47 GMT</lastBuildDate>
+        <atom:link href="http://angelikasteiger.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Desires and Dreams]]></title>
             <description><![CDATA[<article><h1>Desires and Dreams</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b03edcceef17fe3b239d09799d830c0a97430e16.jpg"></article>]]></description>
-            <link>https://thegrid.ai/angelikasteiger/exhibition/index.html</link>
+            <link>http://angelikasteiger.ch/exhibition/index.html</link>
             <guid isPermaLink="false">ce38afd3-1a52-442a-9651-f5048e32b2fa</guid>
-            <pubDate>Sat, 23 Jan 2016 17:28:03 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 10:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jetzt - now]]></title>
             <description><![CDATA[<article><h1>Jetzt - now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8daec6d78600a711928bb36e3afdda54be6c65e2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/angelikasteiger/jetzt-now/index.html</link>
+            <link>http://angelikasteiger.ch/jetzt-now/index.html</link>
             <guid isPermaLink="false">f50193c4-08f5-4a27-8e6f-025e6689b79d</guid>
             <pubDate>Sat, 23 Jan 2016 17:26:35 GMT</pubDate>
         </item>
