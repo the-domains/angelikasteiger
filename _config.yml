@@ -1,7 +1,7 @@
 name: angelikasteiger
 favicon: null
-layout_spectrum: 0.51981
-typography_spectrum: 0.20685
+layout_spectrum: 0.65568
+typography_spectrum: 0.15798
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.125
   lightness: 0.882797671481967
   saturation: 0.5
-  rhythmicContrast: 0.38441726425662637
+  rhythmicContrast: 0.5
 purpose: []
