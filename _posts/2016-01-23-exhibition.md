@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-27T12:16:20.527Z'
-dateModified: '2016-01-27T12:16:12.595Z'
+datePublished: '2016-01-27T12:33:39.188Z'
+dateModified: '2016-01-27T12:31:27.523Z'
 title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
