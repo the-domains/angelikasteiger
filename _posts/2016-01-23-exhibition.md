@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-27T12:33:39.209Z'
+datePublished: '2016-01-27T12:33:39.305Z'
 dateModified: '2016-01-27T12:31:27.523Z'
 title: 'next exhibitions:'
 author: []
