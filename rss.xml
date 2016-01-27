@@ -4,8 +4,15 @@
         <description><![CDATA[Angelika Steiger]]></description>
         <link>http://angelikasteiger.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 12:32:04 GMT</lastBuildDate>
         <atom:link href="http://angelikasteiger.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jetzt - now]]></title>
+            <description><![CDATA[<article><h1>Jetzt - now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8daec6d78600a711928bb36e3afdda54be6c65e2.jpg"></article>]]></description>
+            <link>http://angelikasteiger.co.uk/jetzt-now/index.html</link>
+            <guid isPermaLink="false">f50193c4-08f5-4a27-8e6f-025e6689b79d</guid>
+            <pubDate>Wed, 27 Jan 2016 12:31:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[next exhibitions:]]></title>
             <description><![CDATA[<article><h1>next exhibitions:</h1><p></p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://angelikasteiger.co.uk/installations/index.html</link>
             <guid isPermaLink="false">2884b2fc-ae23-46b6-97e9-4299b7bf4d55</guid>
             <pubDate>Wed, 27 Jan 2016 09:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jetzt - now]]></title>
-            <description><![CDATA[<article><h1>Jetzt - now</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8daec6d78600a711928bb36e3afdda54be6c65e2.jpg"></article>]]></description>
-            <link>http://angelikasteiger.co.uk/jetzt-now/index.html</link>
-            <guid isPermaLink="false">f50193c4-08f5-4a27-8e6f-025e6689b79d</guid>
-            <pubDate>Mon, 25 Jan 2016 10:44:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
