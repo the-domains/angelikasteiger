@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-25T10:44:33.583Z'
-dateModified: '2016-01-25T09:11:05.304Z'
+datePublished: '2016-01-27T09:51:42.342Z'
+dateModified: '2016-01-27T09:50:41.084Z'
 title: Desires and Dreams
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
@@ -42,6 +42,5 @@ artists are
 ___Maureen Banfield Hamlin, Elaine Coles, Janet Curley Cannon, Gill
 Hawkins, Jillian McLaren, Rosemary Miller, Forbes Moores, Patricia Sharman,
 Angelika Steiger __and Markus Wanger_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f1daece42c95209b564a477d1d4ea4a6f83c5be.jpg)
 
 .
