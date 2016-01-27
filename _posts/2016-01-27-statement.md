@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T12:24:27.440Z'
-dateModified: '2016-01-27T12:24:17.382Z'
+datePublished: '2016-01-27T12:33:09.602Z'
+dateModified: '2016-01-27T12:31:24.063Z'
 title: statement
 author: []
 sourcePath: _posts/2016-01-27-statement.md
