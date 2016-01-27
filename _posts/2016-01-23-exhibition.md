@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-27T09:51:42.342Z'
+datePublished: '2016-01-27T09:51:42.372Z'
 dateModified: '2016-01-27T09:50:41.084Z'
 title: Desires and Dreams
 author: []
