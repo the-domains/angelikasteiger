@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-27T09:51:42.372Z'
-dateModified: '2016-01-27T09:50:41.084Z'
-title: Desires and Dreams
+datePublished: '2016-01-27T12:16:20.527Z'
+dateModified: '2016-01-27T12:16:12.595Z'
+title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
 published: true
@@ -24,7 +24,9 @@ _type: Article
 ---
 ****
 
-# Desires and Dreams****
+# next exhibitions:
+
+## "Desires and Dreams", Menier Gallery, London,15.-19.3.2016
 
 Manifestations of our desires are often the
 subject matter for many of our dreams. A cherished aspiration, ambition, or
@@ -43,4 +45,10 @@ ___Maureen Banfield Hamlin, Elaine Coles, Janet Curley Cannon, Gill
 Hawkins, Jillian McLaren, Rosemary Miller, Forbes Moores, Patricia Sharman,
 Angelika Steiger __and Markus Wanger_
 
-.
+## "Spleen", SGBK, [Maison 44][0], Basel, 9.-25.9.2016
+
+## "AchtArt2016", Trotte, Arlesheim, 8.-18.12.2016
+
+## "Drawing Connections", London, beginning of 2017
+
+[0]: http://www.maison44.ch/index.html
