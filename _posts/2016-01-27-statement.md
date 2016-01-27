@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T09:04:36.013Z'
-dateModified: '2016-01-27T09:04:12.464Z'
+datePublished: '2016-01-27T12:24:27.374Z'
+dateModified: '2016-01-27T12:24:17.382Z'
 title: statement
 author: []
+sourcePath: _posts/2016-01-27-statement.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-statement.md
-published: true
-url: statement/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Statement
