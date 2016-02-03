@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'resin soot of boswellia sacra on gummed watercolour tape over woodden frame, 15.5x15.5x4cm, 2016'
-datePublished: '2016-02-03T19:18:41.684Z'
-dateModified: '2016-02-03T19:13:26.560Z'
+datePublished: '2016-02-03T19:19:38.366Z'
+dateModified: '2016-02-03T19:19:31.408Z'
 title: "'When I'm between your arms'"
 author: []
 sourcePath: _posts/2016-02-03-when-im-between-your-arms.md
