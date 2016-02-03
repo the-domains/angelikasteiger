@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'upcoming exhibition '
-datePublished: '2016-01-27T12:33:39.305Z'
-dateModified: '2016-01-27T12:31:27.523Z'
+datePublished: '2016-02-03T19:18:16.433Z'
+dateModified: '2016-02-03T19:18:11.423Z'
 title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
@@ -45,10 +45,12 @@ ___Maureen Banfield Hamlin, Elaine Coles, Janet Curley Cannon, Gill
 Hawkins, Jillian McLaren, Rosemary Miller, Forbes Moores, Patricia Sharman,
 Angelika Steiger __and Markus Wanger_
 
-## "Spleen", SGBK, [Maison 44][0], Basel, 9.-25.9.2016
+## "Kulturnacht" in Weil am Rhein/D, Freitag, 29.4.2016, Gastkünstlerin von Maritta Winter, Kulturzentrum Kesselhaus, Weil a.R./D
 
-## "AchtArt2016", Trotte, Arlesheim, 8.-18.12.2016
+## "Spleen",  [Maison 44][0], Basel, 9.-25.9.2016, 6 Künstlerinnen der SGBK
 
-## "Drawing Connections", London, beginning of 2017
+## "AchtArt2016", Trotte, Arlesheim, 8.-18.12.2016, 8 KünstlerInnen
+
+## "Drawing Connections", London, beginning of 2017, 16 artists
 
 [0]: http://www.maison44.ch/index.html
