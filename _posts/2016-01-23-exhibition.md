@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T08:46:59.307Z'
-dateModified: '2016-05-15T08:29:06.040Z'
+datePublished: '2016-05-15T08:47:51.383Z'
+dateModified: '2016-05-15T08:47:06.638Z'
 title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
