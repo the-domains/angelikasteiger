@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T08:29:02.745Z'
-dateModified: '2016-05-15T08:28:32.531Z'
+datePublished: '2016-05-15T08:46:59.307Z'
+dateModified: '2016-05-15T08:29:06.040Z'
 title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
@@ -38,5 +38,3 @@ Manifestations of our desires are often the subject matter for many of our dream
 ___Maureen Banfield Hamlin, Elaine Coles, Janet Curley Cannon, Gill Hawkins, Jillian McLaren, Rosemary Miller, Forbes Moores, Patricia Sharman, Angelika Steiger __and Markus Wanger_
 
 ## "Kulturnacht" in Weil am Rhein/D, Freitag, 29.4.2016, Gastkünstlerin von Maritta Winter, Kulturzentrum Kesselhaus, Weil a.R./D
-
-##
