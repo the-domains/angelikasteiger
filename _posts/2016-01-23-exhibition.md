@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-30T07:33:31.431Z'
-dateModified: '2016-08-30T07:23:01.863Z'
+datePublished: '2016-08-30T07:34:12.176Z'
+dateModified: '2016-08-30T07:34:04.921Z'
 title: 'next exhibitions:'
 author: []
 sourcePath: _posts/2016-01-23-exhibition.md
@@ -31,7 +31,6 @@ Konzert: Prokofjew und Pflüger, interpretiert durch Claudia Sutter, Sonntag, 18
 Öffnungszeiten: Mi, Fr, Sa 15.00-18.00 Uhr, So nach dem Konzert bis 19.00 Uhr
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dcf536c-d479-4f9d-8c0e-7629183f5190.jpg)
 
-  
 ## "AchtArt2016", Trotte, Arlesheim, 8.-18.12.2016, 8 KünstlerInnen 
 
 ## "Drawing Connections", London, beginning of 2017, 20 artists
